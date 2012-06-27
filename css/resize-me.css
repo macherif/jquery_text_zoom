@@ -1,0 +1,60 @@
+html {
+}
+body {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	line-height:1.5em;
+}
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, ul.menu, ul.menu li {
+	border:0;
+	vertical-align:baseline;
+	background:transparent;
+	margin:0;
+	padding:0;
+}
+ol, ul, ul.menu, .item-list ul {
+	list-style:none;
+	margin:0;
+	padding:0;
+}
+li.leaf, li.expanded, .item-list ul li {
+	list-style-type:none;
+	list-style-image:none;
+	margin:0;
+	padding:0;
+}
+blockquote, q {
+	quotes:none;
+}
+ins {
+	text-decoration:none;
+}
+del {
+	text-decoration:line-through;
+}
+img {
+	display:block;
+}
+table {
+	border-collapse:collapse;
+	border-spacing:0;
+}
+.content li, .alt_content li, .content > p {
+	padding:0;
+}
+a {
+}
+a:link {
+}
+a:visited {
+}
+a:hover {
+}
+a:active {
+}
+a.active {
+}
+/* Set global a:active and a:focus styles. */
+a:active, a:focus {
+}
+
